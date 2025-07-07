@@ -4,7 +4,7 @@ What is Mathematics at its core?
 - Abstract representation of the real world
 - Search/discovery (invention?) of Universal Absolute Truths
 Small history lesson:
-YBC 7289: <img src="Pasted image 20250707124606.png" width="300">
+YBC 7289: <img src="LectureNotes/Pasted image 20250707124606.png" width="300">
 Meaning: 
 ![[Pasted image 20250707124624.png]]Mystery: You find this ball of clay in the ground, dated to ~2000 BCE. What is it, what does it mean? 
 Babylonians / Mesopotamians used base 60. 
