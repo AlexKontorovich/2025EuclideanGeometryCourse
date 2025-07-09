@@ -22,6 +22,7 @@ Fact (to be proved later): In any geometry (including Euclidean / hyperbolic etc
 | 10. $\angle GHF = 180 - \angle DHG = 180 - \angle F$                                             | straight angles = 180                         |
 | 11. Sum of angles in quad $GHFE$ is $(180-E)+E+F +(180-F)=360$                                   | angles add                                    |
 | 12. CONTRADICTION!!!                                                                             | contradicts step 3                            |
+
 QED
 
 ![[Pasted image 20250709125922.png]]
@@ -47,6 +48,7 @@ Instead: we'll do a straightedge and compass construction.
 | 8. AB = AC                                      | Both radii of Circle centered at A |
 | 9. AB = BC                                      | Both radii of Circle centered at B |
 | 10. BC = AC                                     | Common Notion 1 (transitivity)     |
+
 QED
 THERE IS A GLARING GAP IN THIS ARGUMENT!!!
 
