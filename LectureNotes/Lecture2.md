@@ -34,12 +34,13 @@ Instead: we'll do a straightedge and compass construction.
 | 8. AB = AC                                      | Both radii of Circle centered at A |
 | 9. AB = BC                                      | Both radii of Circle centered at B |
 | 10. BC = AC                                     | Common Notion 1 (transitivity)     |
+
 QED
 
 Fast forward 2000 years:
 People were very bothered by the 5th postulate. It's way longer than the others. Not so "self-evident". Felt more like a "Theorem" (a fact to be proven from more basic facts)
 
-In the 19th century (Gauss, Lobichevsky, Bolyai ,... , Riemann , Poincare) people tried to assume that the 5th postulate is False, and prove a cascade of consequences, hoping to find a contradiction!
+In the 19th century (Gauss, Lobachevsky, Bolyai, ..., Riemann, Beltrami, Poincare) people tried to assume that the 5th postulate is False, and prove a cascade of consequences, hoping to find a contradiction!
 They did not manage to come up with a definitive contradiction. But proved all kinds of crazy sounding stuff like: 
 
 Homework: Assume that the angles in a triangle always add up to less than 180 degrees.
