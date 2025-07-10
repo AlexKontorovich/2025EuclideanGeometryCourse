@@ -71,14 +71,10 @@ structure EuclideanPlane where
   Pt : Type -- undefined object
   Line : Type -- undefined!!!
   Circ : Type -- undefined
-  Pt_on_Line : Pt -> Line -> Prop
-  Line_of_Pts : forall a b : Pt, exists L : Line, (Pt_on_Line a L) and 
-	  (Pt_on_Line b L) -- Postule 1
+  Pt_on_Line : Pt → Line → Prop
+  Line_of_Pts : ∀ a b : Pt, ∃ L : Line, (Pt_on_Line a L) ∧ (Pt_on_Line b L) -- Postule 1
   -- Postulate 2 is not needed, all our "Lines" are already infinite
-  Pt_on_Circ : Pt -> Circ -> Prop 
-  Center_of_Circ : Pt -> Circ -> Prop 
-  Circ_of_Pts : forall a b : Pt, exists alpha : Circ, (Center_of_Circ a alpha) 
-	  and (Pt_on_Circ b alpha) -- Postulate 3
-  
-
+  Pt_on_Circ : Pt → Circ → Prop 
+  Center_of_Circ : Pt → Circ → Prop 
+  Circ_of_Pts : ∀ a b : Pt, ∃ α : Circ, (Center_of_Circ a α) ∧ (Pt_on_Circ b α) -- Postulate 3
 ```
