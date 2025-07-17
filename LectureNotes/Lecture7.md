@@ -31,7 +31,7 @@ If at this point, you write `unfold IsWearingJeans`, then the goal will become
 ⊢ IsWearingLongPants Navya
 ⊢ PantsAreDenim Navya
 ```
-When we're in a situation where there are multiple goals, how do we focus in on just the one goal at a time? Type backslash-dot-space: `· ` will the tell the computer to not show the other goals.
+When we're in a situation where there are multiple goals, how do we focus in on just the one goal at a time? Typing backslash-dot-space: `· ` will the tell the computer to not show the other goals.
 - When would you write `convert`? Say you're trying to prove that
 ```
 H : x + y = z + w
@@ -44,9 +44,9 @@ What will happen if I write `convert H`? If you don't restrict the `convert`, it
 ```
 So maybe it's not true that `x = a`, so we don't want to convert this far. To restrict it, we say `convert H using 1`. Then the response will be:
 ```
-⊢ x + y = a + b
+⊢ a + b = x + y
 ```
-(Or maybe `a + b = x + y`). Note: if `H : x = y`, then `H.symm : y = x`. 
+Note: if `H : x = y`, then `H.symm : y = x`. 
 - When would you write `exact`? If your goal state is 
 ```
 H : IsWearingLongPants Navya
