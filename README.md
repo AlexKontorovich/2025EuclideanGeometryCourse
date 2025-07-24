@@ -16,3 +16,5 @@
 | **Lecture 9**<br>7/21 | <a href="https://youtu.be/5BXcxqCIQas" target="_blank"> <img src="https://img.youtube.com/vi/5BXcxqCIQas/maxresdefault.jpg" width="300">  </a> | [Lecture 9 Notes](LectureNotes/Lecture9.md)  | Nearing end of proof of Prop I.1 |
 | **Lecture 10**<br>7/22 | <a href="https://youtu.be/ea25ud96mQc" target="_blank"> <img src="https://img.youtube.com/vi/ea25ud96mQc/maxresdefault.jpg" width="300">  </a> | [Lecture 10 Notes](LectureNotes/Lecture10.md)  | Radii are positive |
 | **Lecture 11**<br>7/22 | <a href="https://youtu.be/H-1oSCpF6ZM" target="_blank"> <img src="https://img.youtube.com/vi/H-1oSCpF6ZM/maxresdefault.jpg" width="300">  </a> | [Lecture 11 Notes](LectureNotes/Lecture11.md)  | Proof of the Riemann Hypothesis <br> Proof of Prop I.1 |
+| **Lecture 12**<br>7/22 | <a href="https://youtu.be/ZmySB_0JN8k" target="_blank"> <img src="https://img.youtube.com/vi/ZmySB_0JN8k/maxresdefault.jpg" width="300">  </a> | [Lecture 12 Notes](LectureNotes/Lecture12.md)  | Proof of Prop I.2 <br> More missing axioms! |
+
